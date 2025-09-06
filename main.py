@@ -16,7 +16,8 @@ def main():
         result = num1 * num2
         print(f"The product of {num1} and {num2} is {result}")
     else:
-        print("Invalid operation. Please choose either + or *.")    
+        print("Invalid operations. Please choose either + or *.")    
+
 
 if __name__ == "__main__":
 	main()
